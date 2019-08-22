@@ -6,6 +6,8 @@
       <module name="first-project.test" target="1.8" />
       <module name="QA-21.first-project.main" target="1.8" />
       <module name="QA-21.first-project.test" target="1.8" />
+      <module name="wikipedia-web-tests.main" target="1.8" />
+      <module name="wikipedia-web-tests.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
