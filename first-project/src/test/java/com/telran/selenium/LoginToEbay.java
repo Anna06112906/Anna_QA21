@@ -7,6 +7,7 @@ public class LoginToEbay extends TestBase{
 @Test
     public void LoginTest(){
     driver.get("https://www.ebay.com");
+    click(By.id("gh-ug"));
 
     click(By.id("userid"));
     driver.findElement(By.id("userid")).clear();
