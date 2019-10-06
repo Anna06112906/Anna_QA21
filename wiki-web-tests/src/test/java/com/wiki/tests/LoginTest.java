@@ -16,7 +16,7 @@ public class LoginTest extends TestBase {
     @Test
     public void loginTest() {
         app.getSession().initLogin();
-        app.getSession().fillLoginForm("ghjhgjgjh@jhjhjhk.com", "123455678G");
+        app.getSession().fillLoginForm("ghjhgjgjh@jhjhjh.com", "123455678G");
         app.getSession().confirmLogin();
     }
 

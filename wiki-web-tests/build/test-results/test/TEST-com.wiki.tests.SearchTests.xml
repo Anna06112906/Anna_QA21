@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wiki.tests.SearchTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-09-19T08:26:45" hostname="DESKTOP-HHAPKNM" time="3.98">
+<testsuite name="com.wiki.tests.SearchTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-06T13:39:24" hostname="LAPTOP-1TKK71FQ" time="3.137">
   <properties/>
-  <testcase name="searchWikiTestQA" classname="com.wiki.tests.SearchTests" time="1.683"/>
-  <testcase name="searchWikiTestJava" classname="com.wiki.tests.SearchTests" time="2.296"/>
+  <testcase name="searchWikiTestQA" classname="com.wiki.tests.SearchTests" time="1.291"/>
+  <testcase name="searchWikiTestJava" classname="com.wiki.tests.SearchTests" time="1.845"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

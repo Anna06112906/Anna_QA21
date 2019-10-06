@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA-21.first-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/QA-21.first-project.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA-21.first-project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/QA-21.first-project.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran.wikipedia-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/telran.wikipedia-web-tests.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran.wikipedia-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/telran.wikipedia-web-tests.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki-web-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki-web-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" />
     </modules>
