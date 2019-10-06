@@ -1,11 +1,15 @@
 package com.telran.selenium;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class LoginToEbay extends TestBase {
+import java.lang.ref.PhantomReference;
+
+public class LoginToEbay  {
     @Test
     public void LoginTest() {
+        WebDriver driver = null;
         driver.get("https://www.ebay.com");
         click(By.id("gh-ug"));
 
@@ -22,6 +26,6 @@ public class LoginToEbay extends TestBase {
     }
 
     public void click(By locator) {
-        super.click(locator);
+        click(locator);
     }
 }

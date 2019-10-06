@@ -2,6 +2,8 @@ package com.wiki.fw;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.BrowserType;
 
 import java.util.concurrent.TimeUnit;
 
@@ -9,9 +11,19 @@ public class ApplicationManager{
     WebDriver driver;
     ArticleHelper article;
     SessionHelper session;
+    private String browser;
+
+    public ApplicationManager(String browser) {
+        this.browser = browser;
+    }
 
     public void init() {
-        driver = new ChromeDriver();
+        if(browser.equals(BrowserType.CHROME)){
+            driver = new ChromeDriver();
+        }if(browser.equals(BrowserType.FIREFOX)){
+            driver = new FirefoxDriver();
+        }
+
         //add default wait for WebElement
         driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
         driver.manage().window().maximize();
