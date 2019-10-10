@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wiki.tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-06T13:39:21" hostname="LAPTOP-1TKK71FQ" time="2.096">
+<testsuite name="com.wiki.tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-09T12:41:23" hostname="LAPTOP-1TKK71FQ" time="3.177">
   <properties/>
-  <testcase name="loginTest" classname="com.wiki.tests.LoginTest" time="2.096"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="loginTest" classname="com.wiki.tests.LoginTest" time="3.177"/>
+  <system-out><![CDATA[15:41:23.450 [Test worker] INFO  com.wiki.tests.LoginTest -  start test LoginTest
+15:41:27.311 [Test worker] INFO  com.wiki.tests.LoginTest -  stop test LoginTest
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

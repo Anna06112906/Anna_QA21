@@ -1,0 +1,6 @@
+16:21:45.951 [main] INFO  com.wiki.tests.TestBase -  start test searchWikiTestQA with parameters[]
+16:21:48.923 [main] INFO  com.wiki.tests.TestBase -  stop test searchWikiTestQA
+16:21:48.927 [main] INFO  com.wiki.tests.TestBase -  start test searchWikiTestJava with parameters[]
+16:21:56.100 [main] INFO  com.wiki.tests.TestBase -  stop test searchWikiTestJava
+16:21:56.101 [main] INFO  com.wiki.tests.TestBase -  start test loginTest with parameters[]
+16:22:03.871 [main] INFO  com.wiki.tests.TestBase -  stop test loginTest

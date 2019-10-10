@@ -39,6 +39,7 @@ public class ApplicationManager{
     }
 
     public ArticleHelper getArticle() {
+
         return article;
     }
 
