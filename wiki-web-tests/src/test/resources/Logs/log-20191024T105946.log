@@ -1,0 +1,8 @@
+10:59:57.596 [Test worker] INFO  com.wiki.tests.TestBase -  start test searchWikiTestQA with parameters[]
+10:59:57.622 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:59:57.686 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:59:57.727 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:59:57.831 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: go found
+10:59:58.610 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.cssSelector: h1#firstHeading found
+10:59:59.009 [Test worker] INFO  com.wiki.fw.HelperBase - screenchot is: screenchot1571903999003.png
+10:59:59.011 [Test worker] INFO  com.wiki.tests.TestBase -  stop test searchWikiTestQA

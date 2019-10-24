@@ -1,0 +1,24 @@
+10:11:45.230 [Test worker] INFO  com.wiki.tests.TestBase -  start test searchWikiTestJava with parameters[]
+10:11:45.234 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: search
+10:11:45.253 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:11:45.304 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: search
+10:11:45.316 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:11:45.338 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: search
+10:11:45.349 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:11:45.438 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: go
+10:11:45.452 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: go found
+10:11:46.817 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.cssSelector: h1#firstHeading
+10:11:46.835 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.cssSelector: h1#firstHeading found
+10:11:46.852 [Test worker] INFO  com.wiki.tests.TestBase -  stop test searchWikiTestJava
+10:11:46.855 [Test worker] INFO  com.wiki.tests.TestBase -  start test searchWikiTestQA with parameters[]
+10:11:46.856 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: search
+10:11:46.866 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:11:46.909 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: search
+10:11:46.919 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:11:46.942 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: search
+10:11:46.954 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:11:46.994 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.name: go
+10:11:47.005 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: go found
+10:11:47.838 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - Start search element By.cssSelector: h1#firstHeading
+10:11:47.855 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.cssSelector: h1#firstHeading found
+10:11:47.891 [Test worker] INFO  com.wiki.tests.TestBase -  stop test searchWikiTestQA

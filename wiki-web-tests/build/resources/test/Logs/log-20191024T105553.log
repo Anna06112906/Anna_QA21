@@ -1,0 +1,7 @@
+10:56:04.273 [Test worker] INFO  com.wiki.tests.TestBase -  start test searchWikiTestQA with parameters[]
+10:56:04.323 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:56:04.397 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:56:04.431 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: search found
+10:56:04.534 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.name: go found
+10:56:05.294 [Test worker] INFO  c.w.fw.ApplicationManager$MyListener - By.cssSelector: h1#firstHeading found
+10:56:05.710 [Test worker] INFO  com.wiki.tests.TestBase -  stop test searchWikiTestQA
